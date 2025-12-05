@@ -1,5 +1,6 @@
 Project Structure
 -----------------
+```
 Employee-Management-system
 |
 |
@@ -75,6 +76,7 @@ Employee-Management-system
 |    |----package-lock.json
 |    |----package.json
 |    |----README.md
+```
 
 A full-stack Employee Management System built using Spring Boot, React, MySQL, Java, and Bootstrap. This application allows users to add, view, update, and delete employees using a clean UI and REST APIs.
 
